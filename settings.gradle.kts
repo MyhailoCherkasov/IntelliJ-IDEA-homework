@@ -1,0 +1,1 @@
+rootProject.name = "java-h2-homework"
